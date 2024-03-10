@@ -1,12 +1,12 @@
-### Hello there! 👋
+### __Hello there!__ 👋
 
-I'm Ryan, a Technical Data Enthusiast who passionate about Database Adminisration, Data Engineering, BI Engineering, Data Science and Data Analytics.
+I'm __Ryan__, a Technical Data Enthusiast who passionate about Database, Data Engineering, BI Engineering, Data Science and Data Analytics.
 
 🔭 I’m currently working on my thesis about Machine Learning
 
 🌱 I’m currently learning Database Programming and Administration
 
-Fun fact:
+__Fun fact:__
 
 🎵 I'm a Coldplayer
 
