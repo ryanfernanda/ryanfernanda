@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm __Ryan__, a Technical Data Enthusiast who passionate about Database, Data Engineering, BI Engineering, Data Science and Data Analytics.
+I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Management, Data Engineering, BI Engineering, Data Science and Data Analytics.
 
 🔭  I’m currently working on my thesis about Machine Learning
 
