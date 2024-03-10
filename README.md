@@ -12,5 +12,6 @@ __Fun fact:__
 
 🏔️  I love hiking and nature exploration
 
-Let's Connect!
+__Let's Connect!__
+
 Feel free to connect with me! I'm always open to collaborations and new opportunities.
