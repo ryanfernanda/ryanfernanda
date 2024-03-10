@@ -1,4 +1,4 @@
-## Hello there! 👋
+### Hello there! 👋
 
 I'm Ryan, a Technical Data Enthusiast who passionate about Database Adminisration, Data Engineering, BI Engineering, Data Science and Data Analytics.
 
