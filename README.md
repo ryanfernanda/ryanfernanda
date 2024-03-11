@@ -21,7 +21,7 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 ![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/google_colaboratory-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![](https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
