@@ -1,9 +1,9 @@
 ## Hello World!
 
 I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Management, Data Engineering, BI Engineering, Data Science and Data Analytics.
-- 🔭  I’m currently working on my thesis about Machine Learning
-- 🌱  I’m currently learning Database Programming and Administration
-- 🏔️  I love hiking and nature exploration
+ - 🔭  I’m currently working on my thesis about Machine Learning
+ - 🌱  I’m currently learning Database Programming and Administration
+ - 🏔️  I love hiking and nature exploration
 
 ## My Tools
 
