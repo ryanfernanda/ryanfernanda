@@ -10,11 +10,6 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 
 🏔️  I love hiking and nature exploration
 
-## Contact Me
-- Linkedin : www.linkedin.com/in/ryan-fernanda
-- Instagram : www.instagram.com/ryanxfernanda
-- Email : ryanfernanda.official@gmail.com
-
 ## My Tools
 
 ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,3 +33,8 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 ![](https://img.shields.io/badge/gnu_bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+## Contact Me
+- Linkedin : www.linkedin.com/in/ryan-fernanda
+- Instagram : www.instagram.com/ryanxfernanda
+- Email : ryanfernanda.official@gmail.com
