@@ -8,7 +8,7 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 
 🤝  I’m looking to collaborate on Data Warehouse Management
 
-🏔️  Fun fact : I love hiking and nature exploration
+🏔️  I love hiking and nature exploration
 
 ### My Tools
 
