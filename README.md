@@ -33,5 +33,4 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 
 ## Contact Me
 - Linkedin : www.linkedin.com/in/ryan-fernanda
-- Instagram : www.instagram.com/ryanxfernanda
 - Email : ryanfernanda.official@gmail.com
