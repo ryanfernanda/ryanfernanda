@@ -1,6 +1,7 @@
 ## __Hello World!__
 
-I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Management, Data Engineering, BI Engineering, Data Science and Data Analytics.     
+I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Management, Data Engineering, BI Engineering, Data Science and Data Analytics.
+
 🔭  I’m currently pursuing my undergraduate study     
 🌱  I’m currently learning Database Programming and Administration      
 🤝  I’m looking to collaborate on Data Warehouse Management     
