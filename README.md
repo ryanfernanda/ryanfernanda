@@ -14,7 +14,7 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 ![](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/HTML-23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/PHP-23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
