@@ -21,15 +21,16 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![](https://img.shields.io/badge/gnu_bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![](https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![](https://img.shields.io/badge/aws_cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 
 ## Contact Me
 - Linkedin : www.linkedin.com/in/ryan-fernanda
