@@ -4,7 +4,7 @@ I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Manageme
 
 🔭 &nbsp; I’m currently pursuing my undergraduate study     
 🌱 &nbsp; I’m currently learning Database Programming and Administration      
-🤝 &nbsp; I’m looking to collaborate on Data Warehouse Management     
+🤝 &nbsp; I’m looking to collaborate on Big Data projects 
 🏔️ &nbsp; I love hiking and nature explorations     
 
 ## My Tools
