@@ -2,7 +2,7 @@
 
 I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Management, BI Engineering, Big Data, Data Analytics, Data Science and Machine Learning.
 
-🎓 &nbsp; I'm a CompSci Graduate
+🎓 &nbsp; I'm a CompSci Graduate     
 🔭 &nbsp; I’m currently learning Cloud Computing and Big Data Management      
 🤝 &nbsp; I’m looking to collaborate on Big Data projects  
 🏔️ &nbsp; I love hiking and nature explorations     
