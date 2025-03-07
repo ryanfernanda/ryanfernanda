@@ -3,10 +3,10 @@
 I'm **Ryan**, a passionate Technical Data Enthusiast specializing in Data Science and Analytics. I thrive on transforming raw data into actionable insights through statistical analysis, predictive modeling, and machine learning algorithms. My expertise includes data wrangling, feature engineering, exploratory data analysis (EDA), and data visualization to drive informed decision-making. I enjoy working with big data technologies, database management, cloud platforms, and AI-driven analytics to uncover hidden patterns and optimize business strategies.  
 
 ## About Me  
-🎓  **Computer Science Graduate** specializing in **Intelligent Systems**  
-🔍  Currently diving deeper into **Big Data Management**  
-🤝  Open to **collaborating on Big Data Analytics projects**  
-🌿  Outdoor lover—**hiking and nature exploration** are my go-to adventures!  
+🎓 &nbsp; **Computer Science Graduate** specializing in **Intelligent Systems**  
+🔍 &nbsp; Currently diving deeper into **Big Data Management**  
+🤝 &nbsp; Open to **collaborating on Big Data Analytics projects**  
+🌿 &nbsp; Outdoor lover—**hiking and nature exploration** are my go-to adventures!  
 
 ## Tech Stack & Tools  
 ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,5 +33,5 @@ I'm **Ryan**, a passionate Technical Data Enthusiast specializing in Data Scienc
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ## Contact Me
-📧  ryanfernanda.official@gmail.com
+📧 &nbsp; ryanfernanda.official@gmail.com
 
