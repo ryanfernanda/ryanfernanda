@@ -34,6 +34,4 @@ I'm **Ryan**, a passionate Technical Data Enthusiast specializing in Data Scienc
 
 ## Contact Me
 - Email : ryanfernanda.official@gmail.com
-- Linkedin : www.linkedin.com/in/ryan-fernanda
-- Instagram: www.instagram.com/ryanxfernanda
 
