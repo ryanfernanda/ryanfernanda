@@ -2,7 +2,7 @@
 
 I'm __Ryan__, a Technical Data Enthusiast who passionate about Database Management, BI Engineering, Big Data, Data Analytics, Data Science and Machine Learning.
 
-🎓 &nbsp; I'm a Computer Science graduate     
+🎓 &nbsp; I'm a Computer Science graduate specializing in Intelligent Systems     
 🔭 &nbsp; I'm currently learning about Big Data Management      
 🤝 &nbsp; I'm interested in collaborating on Big Data Analytics projects  
 🏔️ &nbsp; I love hiking and nature exploration     
