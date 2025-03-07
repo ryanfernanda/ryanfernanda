@@ -1,6 +1,6 @@
 # Hello, World!  
 
-I'm **Ryan**, a passionate **Technical Data Enthusiast** with a strong interest in **Database Management, BI Engineering, Big Data, Data Analytics, Data Science, and Machine Learning.**  
+I'm **Ryan**, a passionate Technical Data Enthusiast specializing in Data Science and Analytics. I thrive on transforming raw data into actionable insights through statistical analysis, predictive modeling, and machine learning algorithms. My expertise includes data wrangling, feature engineering, exploratory data analysis (EDA), and data visualization to drive informed decision-making. I enjoy working with big data technologies, database management, cloud platforms, and AI-driven analytics to uncover hidden patterns and optimize business strategies.  
 
 ## About Me  
 🎓 **Computer Science Graduate** specializing in **Intelligent Systems**  
