@@ -8,10 +8,7 @@ I'm **Ryan**, a passionate **Technical Data Enthusiast** with a strong interest 
 🤝 Open to **collaborating on Big Data Analytics projects**  
 🌿 Outdoor lover—**hiking and nature exploration** are my go-to adventures!  
 
----
-
 ## Tech Stack & Tools  
-
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -30,11 +27,8 @@ I'm **Ryan**, a passionate **Technical Data Enthusiast** with a strong interest 
 ![](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)  
 
----
+## Connect with Me  
+📧 ryanfernanda.official@gmail.com  
 
-## 📬 Connect with Me  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/ryan-fernanda)  
-📧 **Email:** ryanfernanda.official@gmail.com  
-
-Let's connect and create something amazing together! 🚀  
+Let's connect and create something amazing together!
 
