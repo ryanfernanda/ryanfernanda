@@ -33,6 +33,7 @@ I'm **Ryan**, a passionate **Technical Data Enthusiast** with a strong interest 
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ## Contact Me
-- Linkedin : www.linkedin.com/in/ryan-fernanda
 - Email : ryanfernanda.official@gmail.com
+- Linkedin : www.linkedin.com/in/ryan-fernanda
+- Instagram: www.instagram.com/ryanxfernanda
 
