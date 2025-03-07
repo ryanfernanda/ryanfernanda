@@ -33,5 +33,5 @@ I'm **Ryan**, a passionate Technical Data Enthusiast specializing in Data Scienc
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ## Contact Me
-- Email : ryanfernanda.official@gmail.com
+📧 ryanfernanda.official@gmail.com
 
